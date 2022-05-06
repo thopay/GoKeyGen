@@ -58,7 +58,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/th-ms/GoKeyGen.git
+git clone https://github.com/thopay/GoKeyGen.git
 ```
 2. Run the script
 ```sh
