@@ -7,12 +7,12 @@
   <p align="center">
     It generates keys... but in Go.
     <br />
-    <a href="https://github.com/th-ms/GoKeyGen/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/thopay/GoKeyGen/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/th-ms/GoKeyGen/">Report Bug</a>
+    <a href="https://github.com/thopay/GoKeyGen/">Report Bug</a>
     ·
-    <a href="https://github.com/th-ms/GoKeyGen/">Request Feature</a>
+    <a href="https://github.com/thopay/GoKeyGen/">Request Feature</a>
   </p>
 </p>
 
@@ -78,7 +78,7 @@ It's really not that complicated.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/th-ms/GoKeyGen/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/thopay/GoKeyGen/issues) for a list of proposed features (and known issues).
 
 
 
@@ -107,4 +107,4 @@ Distributed under the MIT License.
 
 Thomas - [@th___mas](https://twitter.com/th___mas) - contact@th-mas.dev
 
-Project Link: [https://github.com/th-ms/GoKeyGen](https://github.com/th-ms/GoKeyGen)
+Project Link: [https://github.com/thopay/GoKeyGen](https://github.com/thopay/GoKeyGen)
